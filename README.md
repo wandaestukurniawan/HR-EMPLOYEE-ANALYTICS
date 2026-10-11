@@ -6,7 +6,7 @@ This project presents an interactive **HR Employee Analytics Dashboard** built w
 ---
 
 ## 📸 Dashboard Preview
-![HR Dashboard Preview](assets/dashboard_preview.png)
+![HR Dashboard Preview](assets/Dashboard_preview.png)
 
 ---
 
