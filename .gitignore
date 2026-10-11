@@ -1,0 +1,5 @@
+# Power BI temporary files
+*.abf
+*.backup
+*.tmp
+~*
